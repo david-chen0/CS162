@@ -1,0 +1,4 @@
+Name|Autograder ID (XXX)|Score|Comment
+Sanjeev Thurgam|358|30|Worked closely with Bhavesh on the extensible files section. Also helped me to work and debug on my buffer cache and subdirectory section.
+Bhavesh Kalisetti|182|30|Worked closely with Sanjeev on the extensible files section. Also helped me to work and debug on my buffer cache and subdirectory section.
+Elvis Solis|259|0|Asked him to work on buffer cache, but was unresponsive for an extremely long time. When he did decide to work on buffer cache, he gave a minimal implementation that we practically had in our design document and did not attempt integrate it into our inode.c functions.

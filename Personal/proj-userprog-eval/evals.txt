@@ -1,0 +1,4 @@
+Name|Autograder ID (XXX)|Score|Comment
+Elvis Solis|259|6|Contributed to the floating point portion. Was sick for the design document drafting stage and some of the project coding stage, so he was playing catch-up for this project.
+Bhavesh Kalisetti|182|27|Worked closely with Sanjeev on the sections that they covered(since they are roomates). Were able to code the argument passing section and extensively debug it. Also helped me with coding the exec and wait syscalls, as I was stuck debugging other syscalls and couldn't get to those in time.
+Sanjeev Thurgman|358|27|Same as my comment for Bhavesh. They were working together most of the time.

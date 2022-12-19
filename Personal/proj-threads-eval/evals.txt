@@ -1,0 +1,4 @@
+Name|Autograder ID (XXX)|Score|Comment
+Sanjeev Thurgman|358|30|Worked closely with his roomate Bhavesh on the user threads section. Did most of the work for pthreads alongside Bhavesh. Helped me debug some of my parts when I got stuck.
+Bhavesh Kalisetti|182|30|Worked closely with his roomate Sanjeev on the user threads section. Did most of the work for pthreads alongside Sanjeev. Helped me debug some of my parts when I got stuck.
+Elvis Solis|259|0|Only contribution was writing very bare bones code for the changes to sys_exit, which turned out to be wrong and required us to correct it. Does not respond to our group messages or hold his weight in the project.
